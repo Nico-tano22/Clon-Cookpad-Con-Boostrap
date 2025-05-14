@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+
+img.logo{
+    width: 15%;
+}
+
+div.mb-3 {
+    padding-left: 33%;
+    padding-right: 33%;
+}
+
+button.btn{
+    background-color: orange;
+}
